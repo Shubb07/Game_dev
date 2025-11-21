@@ -207,3 +207,14 @@ A cold breath echoes behind Arjun.
 A hand grabs his shoulder.
 
 CUT TO BLACK.
+---------------------------------------------------------
+
+⭐ TODAY'S TASKS:
+
+Shuban Mutagi (Programming Lead)
+📅 DAY 1 — Nov 21
+
+Install Unity, VS Code, packages
+Import FPS Controller
+Set up project structure
+Basic movement script understanding
