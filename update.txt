@@ -207,6 +207,7 @@ A cold breath echoes behind Arjun.
 A hand grabs his shoulder.
 
 CUT TO BLACK.
+
 ---------------------------------------------------------
 
 ⭐ TODAY'S TASKS:
@@ -218,3 +219,11 @@ Install Unity, VS Code, packages
 Import FPS Controller
 Set up project structure
 Basic movement script understanding
+
+Om S Habib (Environment & Atmosphere Lead)
+📅 DAY 1 — Nov 21
+
+Install Unity & assets
+Learn Unity basics
+Set up folders (Audio, Materials, Prefabs, Scenes)
+Goal: Project ready.
